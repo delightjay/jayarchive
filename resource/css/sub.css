@@ -334,5 +334,5 @@ footer div.copy {
 	div.container ul.tabs { width: 100%; padding: 50px 0 25px; display: block; }
 	div.container ul.tabs li { width: 33.3333%; margin:0; text-align: center; font-size: 25px; }
 	div.container ul.contents_box li { width: 100%; }
-	div.container div.info_color div.color_wrap ul li { height: 250px; }
+	div.container div.info_color div.color_wrap ul li { height: 250px; padding: 10px; }
 }
